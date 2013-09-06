@@ -293,6 +293,7 @@ class Sudoku
 
     /*****************************************************************************/
     /* NOTE: YOU SHOULD NOT HAVE TO MODIFY ANY OF THE FUNCTIONS BELOW THIS LINE. */
+    /* Everything below has been provided for reading the puzzle and displaying the result. */
     /*****************************************************************************/
  
     /* Default constructor.  This will initialize all positions to the default 0
