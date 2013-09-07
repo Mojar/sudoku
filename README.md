@@ -18,4 +18,4 @@ Todo:
 - Experiment with Heuristics for 4x4 and 5x5 solves
 - Add an interface so the awkward .txt files aren't necessary (choose between loading .txt file or inputting numbers in a displayed grid)
 - Perhaps allow someone to create a sudoku in the displayed grid and it can determine the difficulty level (Sudoku generator)
-
+- Refactor into separate methods (rather than one giant solve method)
